@@ -1,0 +1,18 @@
+.aside-icon {
+    width: 28px;
+    height: 28px;
+    font-size: 28px;
+}
+
+.aside-icon:hover {
+    color: #1890ff;
+}
+
+.aside-tooltip {
+    white-space: nowrap;
+}
+
+.aside-text {
+    line-height: 28px;
+    font-size: 14px;
+}
